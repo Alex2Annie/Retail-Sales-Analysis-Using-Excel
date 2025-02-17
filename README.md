@@ -1,4 +1,3 @@
-Retail-Sales- Analysis-Using-Excel
 # Retail Sales Data Analysis 📊
 
 Welcome to the **Retail Sales Data Analysis** project! In this project, I analyzed a **retail sales dataset** using **Excel**. The dataset covers sales data segmented by **product categories** and **customer segments** (such as **Adult**, **Senior**, **Young Adult**). I utilized various Excel functions and features to derive key insights, such as total sales and commission calculations.
